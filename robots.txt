@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://sgupi.github.io/IEi/sitemap.IEi.gz
